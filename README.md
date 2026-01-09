@@ -26,11 +26,11 @@ Me chamo Lucas Cassiano , tenho 20 anos e sou natural do Pernambuco. possuo o cu
             src=""
         />
     </a>
-    <a href="https://github.com/luc266-ads">
+    <a>
         <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            alt="" 
+            title="" 
+            src=""
         />
     </a>
 </p>

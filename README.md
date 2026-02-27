@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Lucas Cassiano
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 Me chamo Lucas Cassiano , tenho 20 anos e sou natural do Pernambuco. possuo o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas . Sou apaixonado por tecnologia 
 

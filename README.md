@@ -14,7 +14,7 @@
 
 **`Desenvolvedor FullStack`**
 
-💻 Desenvolvedor em formação | 📍 Olinda - Pernambuco | 🎓 20 anos
+💻 Desenvolvedor em formação | 📍 Olinda - Pernambuco | 🎓 21 anos
 
 Sou apaixonado por tecnologia e estou em constante aprendizado, buscando aprimorar minhas habilidades em desenvolvimento de software, programação, bancos de dados e outras áreas da computação. Utilizo este GitHub para compartilhar projetos, estudos e desafios que contribuem para minha evolução profissional.
 

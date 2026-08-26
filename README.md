@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Lucas Cassiano
+# Lucas Cassiano </>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=3E8EFE&vCenter=true&width=435&height=25&lines=BEM+VINDO!%2C+ESTE+%C3%89+MEU+PERFIL" alt="Typing SVG" /></a>
 

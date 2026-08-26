@@ -22,11 +22,11 @@ Desenvolvo aplicações web utilizando Angular, TypeScript,
 Java, APIs REST e bancos de dados.
 
 Atualmente estou construindo projetos focados em:
-• aplicações web
-• e-commerce
-• APIs
-• sistemas administrativos
-• arquitetura de software
+ - aplicações web
+ - APIs
+ - sistemas administrativos
+ - e-commerce
+ - arquitetura de software
 
 Buscando minha primeira oportunidade profissional como
 Desenvolvedor Full Stack.

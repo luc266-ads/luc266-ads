@@ -18,6 +18,19 @@
 
 Sou apaixonado por tecnologia e estou em constante aprendizado, buscando aprimorar minhas habilidades em desenvolvimento de software, programação, bancos de dados e outras áreas da computação. Utilizo este GitHub para compartilhar projetos, estudos e desafios que contribuem para minha evolução profissional.
 
+Desenvolvo aplicações web utilizando Angular, TypeScript,
+Java, APIs REST e bancos de dados.
+
+Atualmente estou construindo projetos focados em:
+• aplicações web
+• e-commerce
+• APIs
+• sistemas administrativos
+• arquitetura de software
+
+Buscando minha primeira oportunidade profissional como
+Desenvolvedor Full Stack.
+
 Seja bem-vindo ao meu perfil! 🚀
 
 ---

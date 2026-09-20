@@ -11,6 +11,12 @@
 <img width="60px" height="48" alt="linkedin" src="https://github.com/user-attachments/assets/f49f76f2-a080-4422-bb7b-926292b97e66"
 />
 <a/>
+ 
+<a href="https://www.youtube.com/@Um_Dev_Qualquer">
+<img width="60px" height="48" alt="Design sem nome" src="https://github.com/user-attachments/assets/2d2342f6-2e00-45e7-aca9-3778ac7b7f7f" />
+<a/>
+
+
 
 **`Desenvolvedor FullStack`**
 

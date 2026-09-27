@@ -142,6 +142,7 @@ Seja bem-vindo ao meu perfil! 🚀
 <div align="center" >
 
  ### Vídeo Apresentação 
- 
+<a href ="https://www.youtube.com/watch?v=mJlW2hVB0hw&t=11s">
 <img src = "https://coolreadme.xyz/api/youtube-card?title=Quem%20Sou%20eu%20%3F&channel=Lucas%20Cassiano&style=video&uploaded=3%20days%20ago&duration=1%3A40&progress=35&img=https%3A%2F%2Fbr.pinterest.com%2Fpin%2F8303580559727716%2F&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DmJlW2hVB0hw%26t%3D11s" />
+</a>
 </div>

@@ -44,8 +44,6 @@ Desenvolvedor Full Stack.
 
 Seja bem-vindo ao meu perfil! 🚀
 
----
-
 <p align="left">
     </a> 
     <a href="https://github.com/luc266-ads?tab=repositories&sort=stargazers">
@@ -63,6 +61,8 @@ Seja bem-vindo ao meu perfil! 🚀
         />
     </a>
 </p>
+
+---
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -137,3 +137,11 @@ Seja bem-vindo ao meu perfil! 🚀
 <br/>
 <br/>
 
+---
+
+<div align="center" >
+
+ ### Vídeo Apresentação 
+ 
+<img src = "https://coolreadme.xyz/api/youtube-card?title=Quem%20Sou%20eu%20%3F&channel=Lucas%20Cassiano&style=video&uploaded=3%20days%20ago&duration=1%3A40&progress=35&img=https%3A%2F%2Fbr.pinterest.com%2Fpin%2F8303580559727716%2F&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DmJlW2hVB0hw%26t%3D11s" />
+</div>

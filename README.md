@@ -1,7 +1,11 @@
 <img width="1672" height="519" alt="Banner" src="https://github.com/user-attachments/assets/976583b0-0a26-44e3-abec-d378de09021d" />
-
-
+<br/>
+<br/>
+<div align="center" >
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=3E8EFE&vCenter=true&width=435&height=25&lines=BEM+VINDO!%2C+ESTE+%C3%89+MEU+PERFIL" alt="Typing SVG" /></a>
+</div>
+
+---
 
 <a href="https://www.instagram.com/lccassio_/?hl=pt-br">
 <img width="60px" height="48" alt="instagram" src="https://github.com/user-attachments/assets/1e3a7903-6323-4f4c-b75c-b35dde938536" 
